@@ -131,20 +131,5 @@ sns.heatmap(corr1, annot=True)
 <img width="616" height="528" alt="image" src="https://github.com/user-attachments/assets/04c32e57-38d2-4eef-ab27-bba41aadb35f" />
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## RESULT
+Thus, Exploratory Data Analysis on the given data set is implemented successfully.
